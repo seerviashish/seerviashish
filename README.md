@@ -7,6 +7,7 @@
 - 😎 Typescript lover it makes my life bug free.
 - 💬 Ask me about my career, future goals and Projects repository [which contains mini demo projects to show off my work].
 - 📫 How to reach me: seerviashish17@gmail.com
+- 📺 Ashish Seervi [![Youtube Channel]](https://www.youtube.com/channel/UC0vAIePf9CJT3aWg76Z6SYg)
 
 ## Projects:
 
@@ -14,3 +15,4 @@
 2. React-Typescripte Boilerplate [React-Typescript](https://github.com/seerviashish/react-typescript)
 3. React-Typescript-Redux-Boilerplate [React-Redux-Typescript](https://github.com/seerviashish/react-redux-boilerplate-typescript)
 4. Projects - Mini Projects [Projects](https://github.com/seerviashish/Projects)
+5. TicTacToe - Multiplayer Game [Projects] [![Watch the Demo]](https://www.youtube.com/watch?v=RLXSAVVkPiE&list=PLbewFy_0Oeh5IHuHRprbCai8cOzt0eo6y&ab_channel=AshishSeervi)
