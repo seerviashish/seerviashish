@@ -16,3 +16,4 @@
 3. React-Typescript-Redux-Boilerplate [React-Redux-Typescript](https://github.com/seerviashish/react-redux-boilerplate-typescript)
 4. Projects - Mini Projects [Projects](https://github.com/seerviashish/Projects)
 5. TicTacToe - Multiplayer Game [Projects] [![Watch the Demo]](https://www.youtube.com/watch?v=RLXSAVVkPiE&list=PLbewFy_0Oeh5IHuHRprbCai8cOzt0eo6y&ab_channel=AshishSeervi)
+6. BlogApp - NextJs, Redux-Toolkit, GraphQL, DB (Sqlite or Postgis), i18n [Blog-App](https://github.com/seerviashish/blog-nextjs-graphql) 
