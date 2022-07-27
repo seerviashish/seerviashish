@@ -12,8 +12,6 @@
 ## Projects:
 
 1. React-Webcam-as [NPM-Package](https://github.com/seerviashish/react-webcam-as)
-2. React-Typescripte Boilerplate [React-Typescript](https://github.com/seerviashish/react-typescript)
-3. React-Typescript-Redux-Boilerplate [React-Redux-Typescript](https://github.com/seerviashish/react-redux-boilerplate-typescript)
-4. Projects - Mini Projects [Projects](https://github.com/seerviashish/Projects)
-5. TicTacToe - Multiplayer Game [Projects] [![Watch the Demo]](https://www.youtube.com/watch?v=RLXSAVVkPiE&list=PLbewFy_0Oeh5IHuHRprbCai8cOzt0eo6y&ab_channel=AshishSeervi)
-6. BlogApp - NextJs, Redux-Toolkit, GraphQL, DB (Sqlite or Postgis), i18n [Blog-App](https://github.com/seerviashish/blog-nextjs-graphql) 
+2. Projects - Mini Projects [Projects](https://github.com/seerviashish/Projects)
+3. TicTacToe - Multiplayer Game [Projects] [![Watch the Demo]](https://www.youtube.com/watch?v=RLXSAVVkPiE&list=PLbewFy_0Oeh5IHuHRprbCai8cOzt0eo6y&ab_channel=AshishSeervi)
+4. BlogApp - NextJs, Redux-Toolkit, GraphQL, DB (Sqlite or Postgis), i18n [Blog-App](https://github.com/seerviashish/blog-nextjs-graphql) 
