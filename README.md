@@ -1,6 +1,6 @@
 ### Hi I am Ashishkumar Chaudhary - Software Engineer 👋
 
-- 🏈 I have 3.5 years of experience as a Software Engineer in Web and Backend application development with developing complex features of the analytics platform. 
+- 🏈 I have 3.75+ years of experience as a Software Engineer in Web and Backend application development with developing complex features of the analytics platform. 
 - 🍺 I am looking for a company having a stable and dynamic culture and eager to face new challenges.
 - 🌱 I’m currently learning Database[ NoSQL], Distributed System, React-Native.
 - 🏋️ I have experience of ReactJS, NextJS, Redux and JavaScript, Spring, PostgreSQL, MYSQL, C#, .Net, Java.
