@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m Software Engineer - III at **Impelsys Pvt. Ltd.**
+- 🔭 I’m the Lead Experience Engineer at **Publicis Sapient**
 
 - 👨🏻‍🔬 My expertise lies in crafting web solutions with a strong focus on mobile responsiveness, cross-browser compatibility, and accessibility.
 
